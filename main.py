@@ -1,7 +1,7 @@
 import turtle
 import time
 import random
-import pygame
+
 
 WIDTH, HEIGHT = 500, 500
 COLORS = ['blue4', 'black', 'brown4', 'cadetblue4', 'cyan4', 'chocolate4', 'DarkOrange3', 'DarkRed', 'DeepPink4', 'DarkSlateGray']
